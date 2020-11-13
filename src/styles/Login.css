@@ -1,0 +1,14 @@
+.login{
+    align-content: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.login .input{
+    margin-bottom: 5px;
+    align-content: center;
+}
+.login  .submit{
+    margin-top: 10px;
+}
